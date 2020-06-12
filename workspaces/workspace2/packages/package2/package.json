@@ -2,5 +2,8 @@
   "name": "package2",
   "dependencies": {
     "package1": "workspace:workspaces/workspace1/packages/package1"
+  },
+  "scripts": {
+    "sayhi": "echo 'hi from package 2'"
   }
 }

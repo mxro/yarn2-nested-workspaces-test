@@ -1,4 +1,7 @@
 {
   "name": "package1",
-  "main": "index.js"
+  "main": "index.js",
+  "scripts": {
+    "sayhi": "echo 'hi from package 1'"
+  }
 }
